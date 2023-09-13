@@ -997,7 +997,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet {
-  width: 500px;
+  width: 17px;
   height: 12px;
   background-color: #d1d1d7;
   opacity: 1;
@@ -1074,7 +1074,7 @@ section {
   width: 100px;
   height: 10px;
   background-color: #d1d1d7;
-  opacity: 1;
+  opacity: 10;
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
