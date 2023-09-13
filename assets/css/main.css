@@ -1074,7 +1074,7 @@ section {
   width: 100px;
   height: 10px;
   background-color: #d1d1d7;
-  opacity: 10;
+  opacity: 1;
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
@@ -1104,7 +1104,7 @@ section {
   left: 0;
   bottom: 0;
   height: 100%;
-  width: 100%;
+  width: 1000%;
   background: url(../img/team-shape.svg) no-repeat center bottom;
   background-size: contain;
   z-index: 1;
